@@ -166,3 +166,9 @@ name     = "CSGO Vulkan Fix"
 url      = "https://github.com/hyprwm/hyprland-plugins/tree/main/csgo-vulkan-fix"
 category = "Miscellaneous"
 tagline  = "CSGO custom resolutions fix"
+
+[[plugins]]
+name     = "hyprfloat"
+url      = "https://github.com/yz778/hyprfloat"
+category = "Miscellaneous"
+tagline  = "Floating window utilities"
