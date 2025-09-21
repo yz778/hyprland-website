@@ -62,6 +62,12 @@ url      = "https://github.com/hyprwm/hyprland-plugins/tree/main/xtra-dispatcher
 category = "Quality of Life"
 tagline  = "Additional dispatchers for Hyprland"
 
+[[plugins]]
+name     = "hyprdrag"
+url      = "https://github.com/yz778/hyprdrag"
+category = "Quality of Life"
+tagline  = "Add windowrules and events for window move/resize"
+
 # Layout
 
 [[plugins]]
